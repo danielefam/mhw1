@@ -139,7 +139,9 @@ nav a img {
     color: #9cb026;
 }
 
-
+#nav-caratteristiche strong {
+    color: #9cb026
+}
 
 #menu {
     display: none;
